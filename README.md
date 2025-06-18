@@ -26,3 +26,15 @@ Deep document review (legal, academic, etc.)
 Reverse engineering document trails or investigation logs
 
 Offline intelligence for air-gapped systems
+
+🛠️ Setup
+Prerequisites
+Ubuntu Server (recommended)
+
+PHP + Apache
+
+MariaDB
+
+Ollama (running your chosen local LLM, e.g. mistral, llama3, or custom)
+
+Shared folder: /mnt/deep_research

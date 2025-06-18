@@ -43,10 +43,15 @@ Shared folder: /mnt/deep_research
 📁 Folder Structure
 /
 ├── deep_research.php       # Main dashboard
+
 ├── ollama.php              # Handles LLM requests
+
 ├── config.php              # DB & LLM settings
+
 ├── schema.sql              # MariaDB setup
+
 ├── /mnt/deep_research/     # Your raw research files
+
 └── /responses/             # Saved AI responses
 
 

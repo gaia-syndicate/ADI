@@ -1,5 +1,6 @@
 # ADI
 🧠 ADI — Advanced Data Intelligence (Deep Research)
+
 ADI (Advanced Data Intelligence) is a local AI research assistant designed to analyze large-scale files, documents, and databases with contextual depth. This Deep Research version enables ADI to scan, interpret, and reason across full research directories in real-time—ideal for academic research, novel writing, scientific analysis, or cybersecurity investigations.
 
 🔐 Runs fully on local infrastructure. No internet required.
